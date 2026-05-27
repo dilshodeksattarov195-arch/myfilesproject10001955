@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailvetch",
+        "uuid": 5405575,
+        "checksum": "oa87o"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
